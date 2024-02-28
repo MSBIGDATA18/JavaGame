@@ -1,2 +1,2 @@
 # JavaGame
-JavaScript - Card Game 
+JavaScript - Card Game !
